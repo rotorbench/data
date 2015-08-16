@@ -1,0 +1,13 @@
+SS 1306 3100kv - DYS SN20A
+GF4025N #1          RPM: 23125 Volt_MIN: 12.145 Volt_MAX: 12.533 Current: 7.667 Grams: 299.11
+GF4025N #2          RPM: 23065 Volt_MIN: 12.143 Volt_MAX: 12.529 Current: 7.714 Grams: 280.89
+GF4028CF #1         RPM: 22414 Volt_MIN: 12.082 Volt_MAX: 12.519 Current: 8.341 Grams: 307.44
+GF4028CF #2         RPM: 22474 Volt_MIN: 12.175 Volt_MAX: 12.597 Current: 8.364 Grams: 308.06
+GF4045CFN #1	    RPM: 22585 Volt_MIN: 12.178 Volt_MAX: 12.591 Current: 8.230 Grams: 324.83
+GF4045CFN #2	    RPM: 22585 Volt_MIN: 12.168 Volt_MAX: 12.585 Current: 8.210 Grams: 332.84
+HQ5030CFN-Cut#1     RPM: 22645 Volt_MIN: 12.160 Volt_MAX: 12.574 Current: 8.159 Grams: 317.63
+HQ5030CFN-Cut#2     RPM: 22560 Volt_MIN: 12.160 Volt_MAX: 12.568 Current: 8.194 Grams: 302.91
+FC4045 #1           RPM: 21702 Volt_MIN: 12.116 Volt_MAX: 12.563 Current: 8.813 Grams: 302.26
+FC4045 #2           RPM: 21720 Volt_MIN: 12.116 Volt_MAX: 12.560 Current: 8.835 Grams: 301.52
+HQ4045BNCFN #1	    RPM: 16277 Volt_MIN: 11.872 Volt_MAX: 12.545 Current: 12.505 Grams: 317.64
+HQ4045BNCFN #2	    RPM: 16131 Volt_MIN: 11.902 Volt_MAX: 12.534 Current: 12.367 Grams: 319.83
