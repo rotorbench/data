@@ -1,0 +1,9 @@
+DYS 1104 3500kv
+
+3020-3s #1      RPM: 22954 Volt_MIN: 12.496 Volt_MAX: 12.558 Current: 3.728 Grams: 108.07
+3020-3s #2      RPM: 22902 Volt_MIN: 12.493 Volt_MAX: 12.555 Current: 3.712 Grams: 116.19
+3020-3s #3      RPM: 22885 Volt_MIN: 12.491 Volt_MAX: 12.550 Current: 3.708 Grams: 110.95
+
+3020-4s #1      RPM: 26348 Volt_MIN: 16.585 Volt_MAX: 16.763 Current: 4.758 Grams: 152.38
+3020-4s #2      RPM: 26314 Volt_MIN: 16.573 Volt_MAX: 16.746 Current: 4.736 Grams: 154.53
+3020-4s #3      RPM: 26297 Volt_MIN: 16.556 Volt_MAX: 16.729 Current: 4.745 Grams: 157.76

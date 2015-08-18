@@ -1,0 +1,57 @@
+DYS 1806 2300kv
+
+GF4045CFN-3s #1     RPM: 23194 Volt_MIN: 12.491 Volt_MAX: 12.616 Current: 5.770 Grams: 260.63
+GF4045CFN-3s #2     RPM: 23194 Volt_MIN: 12.485 Volt_MAX: 12.614 Current: 5.741 Grams: 253.23
+HQ4045BN-3s #1      RPM: 19740 Volt_MIN: 12.380 Volt_MAX: 12.608 Current: 10.425 Grams: 344.99
+HQ4045BN-3s #2      RPM: 19748 Volt_MIN: 12.367 Volt_MAX: 12.594 Current: 10.395 Grams: 352.35
+HQ5030N-3s #1       RPM: 22045 Volt_MIN: 12.430 Volt_MAX: 12.586 Current: 7.309 Grams: 359.23
+HQ5030N-3s #2       RPM: 22037 Volt_MIN: 12.422 Volt_MAX: 12.579 Current: 7.310 Grams: 358.84
+GF5030N-3s #1       RPM: 21094 Volt_MIN: 12.390 Volt_MAX: 12.572 Current: 8.502 Grams: 404.87
+GF5030N-3s #2       RPM: 21094 Volt_MIN: 12.382 Volt_MAX: 12.563 Current: 8.493 Grams: 417.87
+HQ5030CFN-3s #1     RPM: 21617 Volt_MIN: 12.389 Volt_MAX: 12.556 Current: 7.833 Grams: 361.46
+HQ5030CFN-3s #2     RPM: 21608 Volt_MIN: 12.383 Volt_MAX: 12.548 Current: 7.814 Grams: 381.40
+DAL5030N-3s #1      RPM: 21257 Volt_MIN: 12.482 Volt_MAX: 12.612 Current: 8.608 Grams: 412.59
+DAL5030N-3s #2      RPM: 21240 Volt_MIN: 12.468 Volt_MAX: 12.597 Current: 8.556 Grams: 405.91
+HQ5040CFN-3s #1     RPM: 19705 Volt_MIN: 12.426 Volt_MAX: 12.586 Current: 10.594 Grams: 435.28
+HQ5040CFN-3s #2     RPM: 19697 Volt_MIN: 12.419 Volt_MAX: 12.585 Current: 10.583 Grams: 432.11
+GF5040N-3s #1       RPM: 20228 Volt_MIN: 12.420 Volt_MAX: 12.572 Current: 9.957 Grams: 431.70
+GF5040N-3s #2       RPM: 20202 Volt_MIN: 12.413 Volt_MAX: 12.561 Current: 9.944 Grams: 444.34
+GF5040CFN-3s #1     RPM: 19825 Volt_MIN: 12.403 Volt_MAX: 12.558 Current: 10.359 Grams: 434.31
+GF5040CFN-3s #2     RPM: 19817 Volt_MIN: 12.393 Volt_MAX: 12.547 Current: 10.337 Grams: 433.05
+GF5045N-3s #1       RPM: 19500 Volt_MIN: 12.442 Volt_MAX: 12.610 Current: 11.004 Grams: 457.67
+GF5045N-3s #2       RPM: 19465 Volt_MIN: 12.435 Volt_MAX: 12.603 Current: 10.981 Grams: 455.64    
+GF5045CFN-3s #1     RPM: 19594 Volt_MIN: 12.433 Volt_MAX: 12.594 Current: 10.737 Grams: 467.20
+GF5045CFN-3s #2     RPM: 19611 Volt_MIN: 12.422 Volt_MAX: 12.585 Current: 10.730 Grams: 463.36
+HQ5045N-3s #1       RPM: 19611 Volt_MIN: 12.413 Volt_MAX: 12.577 Current: 10.773 Grams: 444.36
+HQ5045N-3s #2       RPM: 19645 Volt_MIN: 12.407 Volt_MAX: 12.572 Current: 10.765 Grams: 444.51
+
+
+GF4045CFN-4s #1     RPM: 29177 Volt_MIN: 16.633 Volt_MAX: 16.797 Current: 8.368 Grams: 392.80 
+GF4045CFN-4s #2     RPM: 29177 Volt_MIN: 16.616 Volt_MAX: 16.775 Current: 8.250 Grams: 393.95
+HQ4045BN-4s #1      RPM: 24085 Volt_MIN: 16.481 Volt_MAX: 16.768 Current: 14.499 Grams: 519.67
+HQ4045BN-4s #2      RPM: 24000 Volt_MIN: 16.461 Volt_MAX: 16.747 Current: 14.434 Grams: 517.56
+HQ5030N-4s #1       RPM: 27505 Volt_MIN: 16.531 Volt_MAX: 16.736 Current: 10.330 Grams: 535.14
+HQ5030N-4s #2       RPM: 27462 Volt_MIN: 16.518 Volt_MAX: 16.727 Current: 10.307 Grams: 536.70 
+GF5030N-4s #1       RPM: 26022 Volt_MIN: 16.470 Volt_MAX: 16.712 Current: 12.141 Grams: 595.38
+GF5030N-4s #2       RPM: 25997 Volt_MIN: 16.461 Volt_MAX: 16.697 Current: 12.103 Grams: 617.17
+HQ5030CFN-4s #1     RPM: 26888 Volt_MIN: 16.473 Volt_MAX: 16.698 Current: 11.090 Grams: 555.53
+HQ5030CFN-4s #2     RPM: 26845 Volt_MIN: 16.460 Volt_MAX: 16.675 Current: 11.046 Grams: 534.70
+DAL5030N-4s #1      RPM: 26305 Volt_MIN: 16.539 Volt_MAX: 16.787 Current: 12.035 Grams: 603.93
+DAL5030N-4s #2      RPM: 26254 Volt_MIN: 16.526 Volt_MAX: 16.767 Current: 11.977 Grams: 599.83
+HQ5040CFN-4s #1     RPM: 23871 Volt_MIN: 16.449 Volt_MAX: 16.748 Current: 14.707 Grams: 648.78
+HQ5040CFN-4s #2     RPM: 23811 Volt_MIN: 16.422 Volt_MAX: 16.717 Current: 14.550 Grams: 616.69
+GF5040N-4s #1       RPM: 24977 Volt_MIN: 16.524 Volt_MAX: 16.798 Current: 13.573 Grams: 645.61
+GF5040N-4s #2       RPM: 24865 Volt_MIN: 16.506 Volt_MAX: 16.777 Current: 13.557 Grams: 648.06
+GF5040CFN-4s #1     RPM: 24222 Volt_MIN: 16.462 Volt_MAX: 16.747 Current: 14.389 Grams: 651.32
+GF5040CFN-4s #2     RPM: 24137 Volt_MIN: 16.444 Volt_MAX: 16.728 Current: 14.272 Grams: 642.01
+GF5045N-4s #1       RPM: 23245 Volt_MIN: 16.411 Volt_MAX: 16.712 Current: 15.195 Grams: 664.01
+GF5045N-4s #2       RPM: 23185 Volt_MIN: 16.394 Volt_MAX: 16.696 Current: 15.105 Grams: 662.75  
+GF5045CFN-4s #1     RPM: 23631 Volt_MIN: 16.499 Volt_MAX: 16.802 Current: 15.012 Grams: 677.14
+GF5045CFN-4s #2     RPM: 23614 Volt_MIN: 16.482 Volt_MAX: 16.790 Current: 14.916 Grams: 663.34
+HQ5045N-4s #1       RPM: 23528 Volt_MIN: 16.462 Volt_MAX: 16.763 Current: 15.056 Grams: 639.52
+HQ5045N-4s #2       RPM: 23442 Volt_MIN: 16.444 Volt_MAX: 16.743 Current: 14.921 Grams: 633.43
+HQ5040x3CFN(4)-4s #1RPM: 20777 Volt_MIN: 16.379 Volt_MAX: 16.730 Current: 17.423 Grams: 546.10
+
+
+Notes:
+HQ5040x3CFN(4)-4s #1 - Started to smell, abortion.
