@@ -1,0 +1,28 @@
+RCX 1306 2300kv - DYS SN20A
+GF4025N_3s #1           RPM: 18445 Volt_MIN: 12.357 Volt_MAX: 12.588 Current: 4.057 Grams: 190.47
+GF4025N_3s #2           RPM: 18437 Volt_MIN: 12.355 Volt_MAX: 12.588 Current: 4.048 Grams: 181.84
+GF4028CF_3s #1          RPM: 17905 Volt_MIN: 12.328 Volt_MAX: 12.579 Current: 4.342 Grams: 187.84
+GF4028CF_3s #2          RPM: 17905 Volt_MIN: 12.330 Volt_MAX: 12.577 Current: 4.319 Grams: 195.74
+GF4045CFN_3s #1         RPM: 18042 Volt_MIN: 12.335 Volt_MAX: 12.576 Current: 4.252 Grams: 208.01
+GF4045CFN_3s #2         RPM: 18051 Volt_MIN: 12.322 Volt_MAX: 12.572 Current: 4.234 Grams: 207.51
+HQ5030CFN-Cut_3s #1     RPM: 17820 Volt_MIN: 12.310 Volt_MAX: 12.568 Current: 4.379 Grams: 215.18
+HQ5030CFN-Cut_3s #2     RPM: 17811 Volt_MIN: 12.313 Volt_MAX: 12.563 Current: 4.384 Grams: 218.47
+FC4045_3s #1            RPM: 17331 Volt_MIN: 12.281 Volt_MAX: 12.560 Current: 4.525 Grams: 182.01
+FC4045_3s #2            RPM: 17331 Volt_MIN: 12.283 Volt_MAX: 12.558 Current: 4.536 Grams: 182.64
+HQ4045BN_3s #1          RPM: 13320 Volt_MIN: 12.152 Volt_MAX: 12.552 Current: 6.518 Grams: 211.36
+HQ4045BN_3s #2          RPM: 13217 Volt_MIN: 12.150 Volt_MAX: 12.547 Current: 6.502 Grams: 225.57
+
+GF4025N_4s #1           RPM: 22354 Volt_MIN: 16.300 Volt_MAX: 16.748 Current: 5.435 Grams: 270.62
+GF4025N_4s #2           RPM: 22320 Volt_MIN: 16.280 Volt_MAX: 16.728 Current: 5.436 Grams: 270.03
+GF4028CF_4s #1          RPM: 21437 Volt_MIN: 16.218 Volt_MAX: 16.695 Current: 5.871 Grams: 265.94
+GF4028CF_4s #2          RPM: 21428 Volt_MIN: 16.203 Volt_MAX: 16.681 Current: 5.815 Grams: 270.26
+GF4045CFN_4s #1         RPM: 21600 Volt_MIN: 16.201 Volt_MAX: 16.668 Current: 5.729 Grams: 291.40
+GF4045CFN_4s #2         RPM: 21660 Volt_MIN: 16.297 Volt_MAX: 16.769 Current: 5.773 Grams: 288.04
+HQ5030CFN_Cut_4s #1     RPM: 21565 Volt_MIN: 16.267 Volt_MAX: 16.752 Current: 5.839 Grams: 310.78
+HQ5030CFN_Cut_4s #2     RPM: 21531 Volt_MIN: 16.263 Volt_MAX: 16.736 Current: 5.806 Grams: 309.96
+FC4045_4s #1            RPM: 20708 Volt_MIN: 16.197 Volt_MAX: 16.716 Current: 6.182 Grams: 270.86
+FC4045_4s #2            RPM: 20657 Volt_MIN: 16.165 Volt_MAX: 16.699 Current: 6.157 Grams: 278.96
+HQ4045BN_4s #1          RPM: 14837 Volt_MIN: 16.004 Volt_MAX: 16.684 Current: 8.077 Grams: 268.06
+
+Notes:
+HQ4045BN_4s #1 -- Smells cooked
